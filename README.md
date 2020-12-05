@@ -14,7 +14,7 @@ pandas, datatime, numpy, sklearn, lightgbm, xgboost
 
 Just open the `.ipynb` file in jupyter notebook and run all code cells, then will get the submission `.csv` file in the directory. Before running, please pay attention to the dataset path and modify as you need.
 
-
+The final submission file is test.csv or final.csv. They are the same. I'm afraid of the conflict name with test data.
 
 #### Data Preprocessing and Feature Engineering
 
